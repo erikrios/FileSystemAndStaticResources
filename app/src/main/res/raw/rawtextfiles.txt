@@ -1,0 +1,2 @@
+Using static resource by creating a new res/raw folder
+which contains some files.

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InternalStorageFileSystem</string>
+    <string name="text_view_text">Please enter some text!</string>
+    <string name="button_save_internal">Save to Internal Storage</string>
+    <string name="button_load_internal">Load from Internal Storage</string>
+    <string name="button_save_external">Save to External Storage</string>
+    <string name="button_load_external">Load From External Storage</string>
+</resources>
